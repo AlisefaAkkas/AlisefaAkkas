@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlisefaAkkas
-- 👀 I’m a student. So I'm new in software.
-- 🌱 I’m learning C# and Java. 
+- 👀 I’m graduated from Gazi University, Computer Programming.
+- 🌱 I’m learning C#, Python and Java. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
